@@ -1,0 +1,86 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper {
+  width: 27%;
+  height: 70%;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-block: 10px;
+  gap: 20px;
+  color: white;
+  border-radius: 4px;
+}
+
+.blacky {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: goldenrod;
+  font-size: 18px;
+}
+
+.mid {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mid h1 {
+  font-size: 16px;
+}
+
+.cards {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 24px;
+}
+
+.btn {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 190px;
+  height: 40px;
+  background-color: goldenrod;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  font-size: 18px;
+}
+
+.per {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 24px;
+}
+
