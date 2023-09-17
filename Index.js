@@ -56,37 +56,6 @@ function newCard() {
 
 
 
-// const airbnb = [
-//   {
-//     name: "Intercontinetal Hotel",
-//     price: 2000,
-//     fullyBooked: true,
-//     hasAircondition: false,
-//     customers: 50,
-//   },
-//   {
-//     name: "continetal Hotel",
-//     price: 1000,
-//     fullyBooked: false,
-//     hasAircondition: true,
-//     customers: 1000,
-//   },
-//   {
-//     name: "Premier Hotel",
-//     price: 5000,
-//     fullyBooked: false,
-//     hasAircondition: false,
-//     customers: 3000,
-//   },
-
-// ];
-
-// airbnb.map((i)=>{
-//     console.log()
-//     console.log(i.name);
-//     console.log(i.customers);
-// })
-
 // let hands = ["rocks", "paper", "scissor"];
 
 // function random() {
